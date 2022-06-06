@@ -1,2 +1,5 @@
 # pag-de-captura
- pag de captura criado no curso desenvolvedor BR
+
+ página de captura criado no curso desenvolvedor BR
+
+ > utilizando apenas HTML/CSS
